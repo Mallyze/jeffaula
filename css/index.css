@@ -1,0 +1,28 @@
+body {
+    /* FUNDO COR ("wheat") */
+
+}
+
+div {
+
+}
+
+table, td {
+    /* BORDO "2px solid" e BORDO COR SER PRETO ("BLACK") */
+
+}
+
+tr:nth-child(1) td {
+    /* TEXTO VERDE */
+
+}
+
+tr:nth-child(2) td {
+    /* TEXTO VERMELHO; */
+
+}
+
+tr:nth-child(3) td {
+    /* TEXTO AZUL */
+
+}
